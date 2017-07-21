@@ -111,10 +111,10 @@
               <div class="panel-body">
                 <div class="col-md-6">
                   <br /><br />
-                  <img class="img" src="imagens/credenciais/1.png" alt="Generic placeholder image" height="70">
+                  <img class="img" src="imagens/credenciais/1.png" alt="Generic placeholder image" height="70" width="250">
                 </div>
                 <div class="col-md-6">
-                  <img class="img" style="margin-left: 12em;" src="imagens/credenciais/2.jpg" alt="Generic placeholder image" width="140" height="140">
+                  <img class="img" src="imagens/credenciais/2.jpg" alt="Generic placeholder image" width="140">
                 </div>
               </div>
             </div>
@@ -127,7 +127,8 @@
               </div>
               <div class="panel-body">
                 <div class="col-md-12">
-                  <img class="img" src="imagens/credenciais/3.png" alt="Generic placeholder image" width="290" >
+                  <img class="img" src="imagens/credenciais/3.png" alt="Generic placeholder image" width="250">
+                  <br /><br />
                 </div>
               </div>
             </div>
