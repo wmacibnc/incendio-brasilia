@@ -240,9 +240,9 @@
             <h2>Contato</h2>
 
             <div class="col-md-6">
-              <h4><span class="glyphicon glyphicon-earphone"></span> (61) 33927247</h4>
-              <h4><img src="imagens/icon/whatsapp.png" width="20px"></span> (61) 91577821</h4>
-              <h4><span class="glyphicon glyphicon-earphone"></span> (61) 81155464</h4>
+              <h4><span class="glyphicon glyphicon-earphone"></span> (61) 3392-7247</h4>
+              <h4><img src="imagens/icon/whatsapp.png" width="20px"></span> (61) 9 9157-7821</h4>
+              <h4><span class="glyphicon glyphicon-earphone"></span> (61) 9 8115-5464</h4>
               <h4><span class="glyphicon glyphicon-envelope"></span> incendiobrasilia@yahoo.com.br </h4>
               <h4><span class="glyphicon glyphicon-envelope"></span> incendiobrasilia@gmail.com</h4>
 
